@@ -1,11 +1,14 @@
 # Traffic Project
-Group: Clay Cavanaugh
+By Clay Cavanaugh
 # Project Title
 The Impacts of Weather on Traffic
 # Project Description
 # 
 
+
 # Relevant Links
+Link to Data Set: https://archive.ics.uci.edu/ml/machine-learning-databases/00492/
+Link to Description: https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume#
 
 # References
 https://github.com/dreyco676/Anomaly_Detection_A_to_Z/blob/master/Anomaly%20Detection%20A%20to%20Z.pptx
