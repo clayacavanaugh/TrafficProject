@@ -1,5 +1,3 @@
-# Traffic Project
-By: Clay Cavanaugh
 # Project Title
 The Impacts of Weather on Traffic
 # Project Description
